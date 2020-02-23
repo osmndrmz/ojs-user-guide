@@ -6,3 +6,4 @@
 * [German](de/)
 * [Persian](fa/)
 * [Portuguese](pt/)
+* [Turkish](tr/)
