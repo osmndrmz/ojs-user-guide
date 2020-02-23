@@ -16,26 +16,26 @@ To the right of your screen, choose New Submission to begin a new submission.
 
 Making a new submission is an easy-to-follow 5-step process. Follow along with the on-screen instructions to complete the process.
 
-### <a name="start"></a>Start
+### <a name="start"></a>Başla
 
 1. Select an appropriate section for your submission.
 1. Read and agree to the Submission Requirements.
 1. Add any comments to the editor (optional).
 1. Review the Privacy Statement to ensure you agree.
 
-### <a name="upload-submission"></a>Upload Submission
+### <a name="upload-submission"></a>Dosyaları Yükle
 
-Upload your submission files.
+Gönderi dosyalarınızı yükleyin.
 
-**Upload File**: Each file needs to be assigned as a particular component, which helps organize the files for large projects.
+**Dosya Yükle**: Each file needs to be assigned as a particular component, which helps organize the files for large projects.
 
 You'll upload each of your files one at a time. You will have the opportunity to upload more files in a moment.
 
-**Add Details**:
+**Detayları ekle**:
 
 If you wish, use the Edit link to rename the default file name chosen by the system.
 
-**Confirm**: Add additional files or hit Complete.
+**Onayla**: Add additional files or hit Complete.
 
 Select Save and Continue to move to the next step.
 
